@@ -1,0 +1,26 @@
+[
+    {   
+        "name": "AEX",
+        "link": "https://www.aex.cash/page/new_trade.html#/?symbol=xec_usdt",
+        "logo": "/aex.png",
+        "address_format_correct": true,
+        "deposits_working": true,
+        "withdrawals_working": true,
+        "deposit_confirmations": 10,
+        "withdrawal_fee_reasonable": true,
+        "withdrawal_safety_check": true,
+        "running_avalanche": false
+    },
+    {   
+        "name": "AOFEX",
+        "link": "https://www.aofex.com/#/exchange?symbol=XEC-USDT",
+        "logo": "/aofex.png",
+        "address_format_correct": true,
+        "deposits_working": true,
+        "withdrawals_working": true,
+        "deposit_confirmations": 10,
+        "withdrawal_fee_reasonable": true,
+        "withdrawal_safety_check": true,
+        "running_avalanche": false
+    }
+]
