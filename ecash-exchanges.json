@@ -28,11 +28,11 @@
         "link": "https://ascendex.com/en/basic/cashtrade-spottrading/usdt/xec",
         "logo": "/ascendex.png",
         "address_format_correct": false,
-        "deposits_working": true,
-        "withdrawals_working": true,
+        "deposits_working": false,
+        "withdrawals_working": false,
         "deposit_confirmations": 10,
-        "withdrawal_fee_reasonable": true,
-        "withdrawal_safety_check": true,
+        "withdrawal_fee_reasonable": false,
+        "withdrawal_safety_check": false,
         "running_avalanche": false
     }
 ]
