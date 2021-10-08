@@ -30,7 +30,7 @@
         "address_format_correct": false,
         "deposits_working": false,
         "withdrawals_working": false,
-        "deposit_confirmations": 10,
+        "deposit_confirmations": 20,
         "withdrawal_fee_reasonable": false,
         "withdrawal_safety_check": false,
         "running_avalanche": false
