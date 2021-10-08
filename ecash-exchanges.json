@@ -2,7 +2,7 @@
     {   
         "name": "AEX",
         "link": "https://www.aex.cash/page/new_trade.html#/?symbol=xec_usdt",
-        "logo": "/aex.png",
+        "logo": "/stealth-ex.svg",
         "address_format_correct": true,
         "deposits_working": true,
         "withdrawals_working": true,
