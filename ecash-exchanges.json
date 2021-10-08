@@ -22,5 +22,17 @@
         "withdrawal_fee_reasonable": true,
         "withdrawal_safety_check": true,
         "running_avalanche": false
+    },
+    {   
+        "name": "AscendEX",
+        "link": "https://ascendex.com/en/basic/cashtrade-spottrading/usdt/xec",
+        "logo": "/ascendex.png",
+        "address_format_correct": true,
+        "deposits_working": true,
+        "withdrawals_working": true,
+        "deposit_confirmations": 10,
+        "withdrawal_fee_reasonable": true,
+        "withdrawal_safety_check": true,
+        "running_avalanche": false
     }
 ]
