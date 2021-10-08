@@ -27,7 +27,7 @@
         "name": "AscendEX",
         "link": "https://ascendex.com/en/basic/cashtrade-spottrading/usdt/xec",
         "logo": "/ascendex.png",
-        "address_format_correct": true,
+        "address_format_correct": false,
         "deposits_working": true,
         "withdrawals_working": true,
         "deposit_confirmations": 10,
