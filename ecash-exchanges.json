@@ -279,19 +279,6 @@
         "withdrawals_working": true
     },
     {
-        "exchange": "Huobi Korea",
-        "ecash_name": false,
-        "ecash_ticker": false,
-        "ecash_logo": false,
-        "ecash_color": false,
-        "decimal_move": false,
-        "ecash_deposit_address_format": false,
-        "ecash_website_link": false,
-        "quirks_issues": ["Don't want to use the new address format"],
-        "deposits_working": false,
-        "withdrawals_working": false
-    },
-    {
         "exchange": "Indodax",
         "ecash_name": true,
         "ecash_ticker": true,
