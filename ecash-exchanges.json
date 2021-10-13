@@ -262,23 +262,6 @@
         "withdrawals_working": true
     },
     {
-        "exchange": "Hotbit Korea",
-        "ecash_name": true,
-        "ecash_ticker": true,
-        "ecash_logo": true,
-        "ecash_color": true,
-        "introduction": "N/A",
-        "marketCap": "N/A",
-        "circulatingSupply": "N/A",
-        "decimal_places": "0",
-        "decimal_move": false,
-        "ecash_deposit_address_format": true,
-        "ecash_website_link": true,
-        "url": "https://www.hotbit.co.kr/exchange?symbol=XEC_USDT",
-        "deposits_working": true,
-        "withdrawals_working": true
-    },
-    {
         "exchange": "Huobi",
         "ecash_name": true,
         "ecash_ticker": true,
