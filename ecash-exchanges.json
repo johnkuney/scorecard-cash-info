@@ -581,22 +581,6 @@
         "ecash_color": true
     },
     {
-        "exchange": "Guarda wallet"
-    },
-    {
-        "exchange": "Mining Dutch"
-    },
-    {
-        "exchange": "Livecoinwatch",
-        "ecash_name": true,
-        "ecash_ticker": true,
-        "ecash_logo": true,
-        "ecash_color": true,
-        "decimal_move": true,
-        "ecash_website_link": true,
-        "url": "https://www.livecoinwatch.com/price/eCash-XEC"
-    },
-    {
         "exchange": "WiseBitcoin",
         "url": "https://www.wisebitcoin.exchange/en-us/exchange/XEC/USDT"
     },
@@ -631,5 +615,21 @@
     },
     {
         "exchange": "BOREX"
+    },
+    {
+        "exchange": "Guarda wallet"
+    },
+    {
+        "exchange": "Mining Dutch"
+    },
+    {
+        "exchange": "Livecoinwatch",
+        "ecash_name": true,
+        "ecash_ticker": true,
+        "ecash_logo": true,
+        "ecash_color": true,
+        "decimal_move": true,
+        "ecash_website_link": true,
+        "url": "https://www.livecoinwatch.com/price/eCash-XEC"
     }
 ]
