@@ -620,6 +620,7 @@
         "ecash_ticker": true,
         "ecash_logo": true,
         "ecash_color": true,
+        "ecash_deposit_address_format": true,
         "introduction": true,
         "marketCap": "N/A",
         "circulatingSupply": "N/A",
